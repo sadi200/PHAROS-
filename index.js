@@ -28,7 +28,7 @@ const logger = {
   banner: () => {
     console.log(`${colors.cyan}${colors.bold}`);
     console.log('-------------------------------------------------');
-    console.log(' Pharos Testnet Auto Bot - Airdrop Insiders');
+    console.log(' Pharos Testnet Auto Bot - Earn & Point');
     console.log('-------------------------------------------------');
     console.log(`${colors.reset}\n`);
   },
